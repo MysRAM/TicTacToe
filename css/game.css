@@ -19,7 +19,6 @@ td {
     /* Align numbers */
     text-align: center;
     font-size: 500%;
-    opacity: 50%;
     /* This property changes the cursor to the index finger hand when we hover over td elements.*/
     cursor: pointer;
     /* This property sets our table border style. */
