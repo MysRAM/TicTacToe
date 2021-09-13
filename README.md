@@ -1,3 +1,3 @@
 # TicTacToe
 
-This is a game I created utilizing CSS & HTML
+This is a game I created utilizing CSS, HTML & JavaScript
